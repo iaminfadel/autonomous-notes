@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautonomous_notes=self.webpackChunkautonomous_notes||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/autonomous-notes/blog","blogTitle":"Blog","authorsListPath":"/autonomous-notes/blog/authors"}')}}]);

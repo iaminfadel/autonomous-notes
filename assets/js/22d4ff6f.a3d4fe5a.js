@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautonomous_notes=self.webpackChunkautonomous_notes||[]).push([[4287],{9409:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/autonomous-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
