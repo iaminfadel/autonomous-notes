@@ -1,14 +1,16 @@
 // docusaurus.config.js
 const config = {
-  title: 'Autonomous Systems & Robotics',
+  title: 'Autonomous Systems Notes',
   tagline: 'Resources and Notes',
-  url: 'https://your-domain.com',
-  baseUrl: '/',
+  url: 'https://iaminfadel.github.io/',
+  baseUrl: '/autonomous-notes',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'iaminfadel',
-  projectName: 'robotics-course',
+  projectName: 'autonomous-notes',
+  trailingSlash: false,
+
 
   // Remove duplicate theme declaration and only use it in preset
   presets: [
@@ -17,7 +19,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/iaminfadel/robotics-course/edit/main/',
+          editUrl: 'https://github.com/iaminfadel/autonomous-notes/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
